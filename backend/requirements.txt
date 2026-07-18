@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+faster-whisper==1.0.3
+opencv-python-headless==4.10.0.84
+moviepy==1.0.3
+huggingface_hub>=0.26.0
+pyttsx3==2.90
+pydantic==2.9.2
+python-dotenv==1.0.1
+numpy<2.0
